@@ -32,11 +32,29 @@
 - 🚀 Focused on writing better code and building real-world projects.
 - 🤝 Always ready to learn new technologies and collaborate.
 
-## 🛠️ Tech Stack
+
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode&perline=7" alt="Tech Stack" />
+  <b>Languages</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts" alt="Languages"/>
 </p>
+
+<p align="center">
+  <b>Frontend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs" alt="Frontend"/>
+</p>
+
+<p align="center">
+  <b>Backend & Databases</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and Databases"/>
+</p>
+
+<p align="center">
+  <b>Tools & Version Control</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,vercel" alt="Tools and Version Control"/>
+</p>
+
 
 ## 🚀 Featured Projects
 
@@ -47,30 +65,52 @@
 | [React-js](https://github.com/Yashx011/React-js) | JavaScript |
 | [Snake Game](https://github.com/Yashx011/Snake-game) | JavaScript |
 
-## 📊 GitHub Stats
+
+---
+
+## 🔗 Connect With Me
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yashx011&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashx011&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://linkedin.com/in/yash011x">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/Yash_011x">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yashx011&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-## 🧩 LeetCode Stats
+## 🏆 Coding Profiles
 
 <p align="center">
   <a href="https://leetcode.com/u/Yash_011x/">
-    <img src="https://leetcard.jacoblin.cool/Yash_011x?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/Yashx011">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/Yash_011x/">Visit my LeetCode Profile →</a>
+  <a href="https://leetcode.com/u/Yash_011x/">
+    <img src="https://leetcard.jacoblin.cool/Yash_011x?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats and Heatmap"/>
+  </a>
 </p>
 
----
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashx011&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yashx011&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashx011&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity"/>
+</p>
 
 <p align="center">
   <i>Keep learning. Keep building. Keep growing. 🚀</i>
