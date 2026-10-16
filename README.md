@@ -106,12 +106,9 @@
   <img src="https://streak-stats.demolab.com?user=Yashx011&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-## 📈 GitHub Contribution Graph
+
+## 🐍 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashx011&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity"/>
-</p>
-
-<p align="center">
-  <i>Keep learning. Keep building. Keep growing. 🚀</i>
+  <img src="https://raw.githubusercontent.com/Yashx011/Yashx011/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
